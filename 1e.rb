@@ -1,1 +1,1 @@
-puts "i'm string"\""
+puts "i\'m a \"string\""
